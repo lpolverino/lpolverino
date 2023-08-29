@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center"> Hello, Im Lorenzo 👋</h1>
+```js
+const lorenzo = {
+  lenguages :{javascript, python, c++, c},
+  passion:{WebDevelopment, functionalProgramming}
+  Tecnologies:{React, Node, Django}
+}
+```
