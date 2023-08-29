@@ -25,5 +25,6 @@ const lorenzo = {
   Tecnologies:{React, Node, Django}
   DataBases:{MySQL, SQLite, MoongoDB}
   Testing:{JEST, TDD}
+}
 ```
 
