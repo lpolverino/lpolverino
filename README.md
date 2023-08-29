@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hello, Im Lorenzo and welcome to my github 👋</h1>
-I am an advanced computer science studen who is very passionate for software development and right now is learning how to create web pages using javascript with React for the FrontEnd and Nodejs for the back. I really wanna be part of a team who develops computer solutions for many kind of problems. I would love any kind of help about how to improve my skills and projects.
+<h1 align="center"> Hello, I'm Lorenzo and welcome to my github 👋</h1>
+I'm an advanced computer science studen who is very passionate for software development and right now is learning how to create web pages using javascript with React for the FrontEnd and Nodejs for the back. I really wanna be part of a team who develops computer solutions for many kind of problems. I would love any kind of help about how to improve my skills and projects.
 
 ```javascript
 const lorenzo = {
