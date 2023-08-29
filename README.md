@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **lpolverino/lpolverino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hello, Im Lorenzo 👋</h1>
-```js
+'''js
 const lorenzo = {
   lenguages :{javascript, python, c++, c},
   passion:{WebDevelopment, functionalProgramming}
   Tecnologies:{React, Node, Django}
 }
-```
+'''
