@@ -49,7 +49,7 @@ I am an advanced computer science studen who is very passionate for software dev
 
 
 <h1 align="center"> Hello, I'm Lorenzo and welcome to my github 👋</h1>
-<p>I'm an advanced computer science studen who is very passionate for software development and right now is learning how to create web pages using javascript with React for the FrontEnd and Nodejs for the back.</p>
+<p>I'm an advanced computer science studen who is very passionate for software development and right now im developing web pages using javascript with React for the FrontEnd and Nodejs for the BackEnd using my expertise adquired in the Major and The Odin Project.</p>
 <p> I really wanna be part of a team who develops computer solutions for many kind of problems. I would love any kind of help about how to improve my skills and projects.</p>
 <section>
   <a href="https://www.linkedin.com/in/lorenzo-polverino-845609219/">
